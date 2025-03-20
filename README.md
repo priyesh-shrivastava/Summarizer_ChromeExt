@@ -58,7 +58,7 @@ We welcome contributions! Feel free to fork, submit issues, or propose new featu
 ## 📸 Demo (1)
 ![Extension View](screenshots/s3.png)
 
-## 📸 Demo (1)
+## 📸 Demo (2)
 ![Extension View](screenshots/s2.png)
 
 
