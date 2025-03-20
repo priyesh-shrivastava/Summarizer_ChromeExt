@@ -55,13 +55,6 @@ We welcome contributions! Feel free to fork, submit issues, or propose new featu
 3. Submit a pull request. 🔁
 
 
-## 📸 Demo (1)
-![Extension View](screenshots/s3.png)
-
-## 📸 Demo (2)
-![Extension View](screenshots/s2.png)
-
-
 ## 📄 License
 
 This project is licensed under the **MIT License** – free to use and modify. 📃
